@@ -1,12 +1,4 @@
 # Iris-classification
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Iris Species Classification Web Application</title>
-</head>
-<body>
-
 <h1>Iris Species Classification Web Application</h1>
 
 <h2>Project Overview</h2>
